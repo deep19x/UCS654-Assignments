@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+Topsis_deep_102303673.egg-info/PKG-INFO
+Topsis_deep_102303673.egg-info/SOURCES.txt
+Topsis_deep_102303673.egg-info/dependency_links.txt
+Topsis_deep_102303673.egg-info/entry_points.txt
+Topsis_deep_102303673.egg-info/top_level.txt
+topsis_deep/__init__.py
+topsis_deep/topsis.py
